@@ -1,0 +1,31 @@
+/* App.css */
+.App {
+  text-align: center;
+  background-color:  #b2ad7f;
+  background-size: cover;
+  min-height: 100vh;
+  padding: 20px;
+  
+}
+
+.product-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.product-card {
+  width: 200px;
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+
+
+
+.heading{
+  color: #6b5b95;
+  margin-top: 0px;
+}
